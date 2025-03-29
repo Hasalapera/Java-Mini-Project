@@ -71,6 +71,9 @@
             <properties>
               <background color="-11250604"/>
             </properties>
+            <clientProperties>
+              <html.disable class="java.lang.Boolean" value="false"/>
+            </clientProperties>
             <border type="none"/>
             <children>
               <component id="662ce" class="javax.swing.JLabel">
@@ -125,7 +128,7 @@
                 <properties>
                   <actionCommand value="Button"/>
                   <autoscrolls value="false"/>
-                  <background color="-17063"/>
+                  <background color="-1"/>
                   <borderPainted value="true"/>
                   <contentAreaFilled value="true"/>
                   <defaultCapable value="true"/>
